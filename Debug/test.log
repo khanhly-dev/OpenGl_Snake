@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\C++\OpenGl\test\test\test\main.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
+E:\C++\OpenGl\test\test\test\main.cpp(107,39): warning C4018: '<': signed/unsigned mismatch
+  snake.cpp
+  Generating Code...
+  test.vcxproj -> E:\C++\OpenGl\test\test\Debug\test.exe
